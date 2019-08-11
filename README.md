@@ -1,5 +1,5 @@
 # ML_lecture
-先端データ解析  杉山将　先生 課題実装例 
+先端データ解析  杉山将　先生 課題実装例   
 lec2 : k-ford cross-varidation  
 lec3 : Sparse Regression  
 lec4 : Robust Regression  
